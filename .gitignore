@@ -2,8 +2,6 @@ Capfile
 lib/*
 config/*
 .idea/
-Gemfile
-Gemfile.lock
 log/
 public/
 tmp/
